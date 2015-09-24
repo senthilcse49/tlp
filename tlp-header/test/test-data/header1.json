@@ -1,0 +1,37 @@
+{
+    "name": "B",
+
+    "banners": [
+        {
+            "name": "49ers_banner_1",
+            "screen_width": 600,
+            "url": "http://images.footballfanatics.com/partners/ff/2015/fanatics_Jarryd_Hayne_tlp_banner.jpg"
+    },
+        {
+            "name": "49ers_banner_2",
+            "screen_width": 600,
+            "url": "http://images.footballfanatics.com/partners/ff/2015/fanatics_Jarryd_Hayne_tlp_banner.jpg"
+    }
+  ],
+
+    "logos": [
+        {
+            "name": "49ers_logo_1",
+            "screen_width": 200,
+            "url": "http://prod.static.49ers.clubs.nfl.com/nfl-assets/img/gbl-ico-team/SF/logos/home/large.png"
+    }
+  ],
+
+    "description": {
+        "title": "San Francisco 49ers",
+        "head": "Sundays can't come soon enough for Niners fans, and Fanatics knows the thrill of gameday is easily enhanced when you have awesome San Francisco 49ers Apparel to wear while you cheer the team on. While you're thriving off the excitement of each play lead by Colin Kaepernick, we'll keep hustling to bring in an ultimate selection of 49ers Gear to choose from so you'll never get bored with your San Francisco 49ers Merchandise. You'll find plenty of gameday classics like the black alternate 49ers Jerseys, Hats, T-Shirts, Hoodies and Jackets along with other awesome pieces that'll take your ensemble up to the next level.",
+        "foot": "Get ready to go pink for a good cause with San Francisco 49ers Breast Cancer Awareness Gear that you can proudly wear along with the team in October. Once you're set with San Francisco 49ers Clothing, start browsing our other departments to show 49ers pride on everything you own. San Francisco 49ers car and truck accessories are popular picks along with our tailgate and grilling items that help fans step up their gameday spread. Accessorizing your style with 49ers spirit is easy when you pick up purses, shoes, socks, watches, wallets and jewelry featuring the 49ers logo. If you're looking for the official San Francisco 49ers Coaches Polos that you see on the sidelines, you'll find those here too. Fans are sure to locate everything they could want at our 49ers Shop, from home decor like 49ers flags and office supplies to backpacks, beanies, lawn decorations, autographed memorabilia and so much more. Browse 49ers Gifts and Apparel for women, men, youth, babies and even pets on sale at Fanatics.com, the #1 NFL Shop for 49ers fans!"
+    },
+
+    "departmentInfo": {
+        "title": "San Francisco 49ers Department",
+        "departments": [
+
+		]
+    }
+}
